@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ShoppingListApp</string>
+    <string name="facebook_app_id">609231249764848</string>
+    <string name="fb_login_protocol_scheme">fb609231249764848</string>
+    <string name="shopping">Shopping</string>
+    <string name="made_easy">Made Easy</string>
+</resources>
