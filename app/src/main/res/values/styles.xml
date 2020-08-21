@@ -13,4 +13,11 @@
         <item name="windowNoTitle">true</item>
     </style>
 
+    <style name="fbloginbutton">
+        <item name="android:background">@drawable/com_facebook_button_icon</item>
+        <item name="android:backgroundTint">@color/com_facebook_blue</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+    </style>
+
+
 </resources>

@@ -1,10 +1,12 @@
 <resources>
-    <string name="app_name">ShoppingListApp</string>
+    <string name="app_name">Shists</string>
     <string name="facebook_app_id">609231249764848</string>
     <string name="fb_login_protocol_scheme">fb609231249764848</string>
     <string name="shopping">Shopping</string>
-    <string name="made_easy">Made Easy</string>
-    <string name="easy_shopping_lists">Easy shopping lists</string>
-    <string name="shiiiiiiists">Shiiiiiiists</string>
-    <string name="rights_reserved">João Pimentel Ⓒ All rights reserved</string>
+    <string name="e_mail">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="login_with_facebook">Login with Facebook</string>
+    <string name="login_with_google">Login with Google</string>
 </resources>
